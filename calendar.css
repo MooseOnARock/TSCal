@@ -17,4 +17,18 @@ td {
     border: 1px solid #000000;
     height: 150px;
     width: 150px;
+	
+	background: #EDEDED;
+	background: -webkit-linear-gradient(top, #F1F1F1, #EDEDED);/* Safari 5.1, Chrome 10+ */ 
+	background: -moz-linear-gradient(top, #F1F1F1, #EDEDED);/* Firefox 3.6+ */  
+	background: -ms-linear-gradient(top, #F1F1F1, #EDEDED);/* IE 10 */
+	background: -o-linear-gradient(top, #F1F1F1, #EDEDED);/* Opera 11.10+ */ 
+}
+th {
+	
+	background:#E0E0E0;
+	background: -webkit-linear-gradient(top, #E5E5E5, #D1D1D1);/* Safari 5.1, Chrome 10+ */ 
+	background: -moz-linear-gradient(top, #E5E5E5, #D1D1D1);/* Firefox 3.6+ */  
+	background: -ms-linear-gradient(top, #E5E5E5, #D1D1D1);/* IE 10 */
+	background: -o-linear-gradient(top, #E5E5E5, #D1D1D1);/* Opera 11.10+ */ 
 }
