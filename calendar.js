@@ -10,3 +10,4 @@ jQuery(document).ready(function(){
 		curDate.setDate(curDate.getDate()+1);
 	}
 });
+window.months = ['January', 'Feburary', 'March', 'April'];
